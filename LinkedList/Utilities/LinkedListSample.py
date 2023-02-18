@@ -1,10 +1,3 @@
-# Define the LinkedListNode class with a constructor that 
-# initializes the value and the next node pointer.
-class LinkedListNode:
-    def __init__(self, value, nextNode=None):
-        self.value = value
-        self.nextNode = nextNode
-        
 # Define the LinkedList class with a constructor that initializes the head node.
 class LinkedList:
     def __init__(self, head=None):

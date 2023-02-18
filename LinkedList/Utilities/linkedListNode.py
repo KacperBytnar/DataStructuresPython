@@ -1,3 +1,5 @@
+# Define the LinkedListNode class with a constructor that 
+# initializes the value and the next node pointer.
 class LinkedListNode:
     def __init__(self, value, nextNode=None):
         self.value = value
